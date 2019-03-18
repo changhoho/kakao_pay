@@ -12,10 +12,10 @@
 - RandomForest_Regression.ipynb_
   - Python 스크립트 코드
   - 랜덤포레스트 회구모델 구현
- - Ensemble.ipynb
+- Ensemble.ipynb
   - Python 스크립트 코드
   - 두 모델에 대한 앙상블  
-  ### 변수 선택  
+### 변수 선택  
   - 독립변수와 종속변수간의 상관관계를 확인
   - 독립변수를 변수 변환 진행
     - 각각 'x' ,'x^2', 'x^3', 'log(x)', 'sqrt(x)', '1/sqrt(x)', '1/x', '1/(x^2)', '1/(x^3)' 형태로 변환
