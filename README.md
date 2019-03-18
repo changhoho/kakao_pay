@@ -22,7 +22,7 @@
     - 비선형관계를 파악하고 이를 선형관계로 변경하기 위함   
   ### 독립변수와 종속변수간의 상관관계 확인
   ![cor1](./files/cor1.PNG)
-  ### 독립변수를 transformation화
+  ### transformation된 독립변수와 종속변수와의 상관관계
   ![cor2](./files/cor2.PNG)    
   ### 변경된 독립변수와 종속변수간의 상관관계 확인
   ![cor3](./files/cor3.PNG)
